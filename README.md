@@ -1,7 +1,10 @@
 # Machine Learning Algorithms from Scratch
 
-This repository contains implementations of core machine learning algorithms
-written from scratch using Python and NumPy, without using high-level ML libraries.
+This repository contains implementations of fundamental machine learning
+algorithms built from scratch using Python and NumPy, without relying on
+high-level machine learning libraries. The objective of this project is to
+develop a strong understanding of the mathematical foundations,
+optimization techniques, and practical behavior of core ML algorithms.
 
 ## Implemented Algorithms
 - Linear Regression (Gradient Descent)<br>
