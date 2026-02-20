@@ -1,0 +1,25 @@
+# Machine Learning Algorithms from Scratch
+
+This repository contains implementations of core machine learning algorithms
+written from scratch using Python and NumPy, without using high-level ML libraries.
+
+## Implemented Algorithms
+- Linear Regression (Gradient Descent)
+- Logistic Regression (Binary Classification)
+
+## Objectives
+- Understand mathematical foundations of ML algorithms
+- Implement optimization and training logic manually
+- Analyze model behavior and limitations
+
+## Tools Used
+- Python, NumPy, Matplotlib
+
+## Key Learnings
+- Effect of learning rate on convergence
+- Importance of feature scaling
+- Differences between regression and classification
+
+## Future Work
+- Add regularization techniques
+- Compare results with scikit-learn
