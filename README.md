@@ -6,7 +6,8 @@ written from scratch using Python and NumPy, without using high-level ML librari
 ## Implemented Algorithms
 - Linear Regression (Gradient Descent)<br>
      link for [simple linear regression](https://github.com/diwakar221718/ml-algorithms-from-scratch/blob/main/Linear_Regression_From_Scratch/ml_day51(part2).ipynb)
-- Logistic Regression (Binary Classification)
+- Logistic Regression (Binary Classification)<br>
+     link [my logistic regression project model](https://github.com/diwakar221718/ml-algorithms-from-scratch/blob/main/Logistic_Regression_From_Scratch/ml_day13.ipynb)
 
 ## Objectives
 - Understand mathematical foundations of ML algorithms
