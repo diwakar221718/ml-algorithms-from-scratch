@@ -10,7 +10,7 @@ This implementation uses gradient descent to minimize mean squared error.
 ### Observations
 - Large learning rates led to divergence
 - Feature scaling improved convergence
+- using gradient descent for finding beat fit line
 
 ### Limitations
 - Sensitive to outliers
-- Requires careful tuning of hyperparameters
