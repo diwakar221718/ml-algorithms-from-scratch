@@ -5,9 +5,10 @@ written from scratch using Python and NumPy, without using high-level ML librari
 
 ## Implemented Algorithms
 - Linear Regression (Gradient Descent)<br>
-     link for [simple linear regression](https://github.com/diwakar221718/ml-algorithms-from-scratch/blob/main/Linear_Regression_From_Scratch/ml_day51(part2).ipynb)
+     link => [simple linear regression scractch code](https://github.com/diwakar221718/ml-algorithms-from-scratch/blob/main/Linear_Regression_From_Scratch/ml_day51(part2).ipynb)
 - Logistic Regression (Binary Classification)<br>
-     link [my logistic regression project model](https://github.com/diwakar221718/ml-algorithms-from-scratch/blob/main/Logistic_Regression_From_Scratch/ml_day13.ipynb)
+     link=>[my logistic regression project model](https://github.com/diwakar221718/ml-algorithms-from-scratch/blob/main/Logistic_Regression_From_Scratch/ml_day13.ipynb)<br>
+      live project using logistic regression => [my project]( https://render-first-ml-project.onrender.com/)
 
 ## Objectives
 - Understand mathematical foundations of ML algorithms
